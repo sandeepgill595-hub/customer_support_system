@@ -31,7 +31,9 @@ I built it to practise an end-to-end data workflow: database design → Python a
 <!-- Replace these with your own screenshots. Save images in a "screenshots" folder. -->
 | Dashboard | Ticket Management |
 |-----------|-------------------|
-| ![Dashboard](screenshots/dashboard.png) | ![Tickets](screenshots/tickets.png) |
+| <img width="951" height="557" alt="image" src="https://github.com/user-attachments/assets/8fd14568-9e61-4dab-a0c3-407584ba6441" />
+ | <img width="918" height="564" alt="image" src="https://github.com/user-attachments/assets/2755615f-7f8c-4f43-ab9b-30dd37d9ab29" />
+ |
 
 ## 🚀 Live Demo
 
